@@ -139,6 +139,7 @@
 #preview.text-markdown p, #preview.text-markdown blockquote, #preview.text-markdown ul, #preview.text-markdown ol, #preview.text-markdown dl, #preview.text-markdown table, #preview.text-markdown pre {
 	margin: 15px 0;
 	font-size: 15px;
+	line-height: 1.67em;
 }
 
 #preview.text-markdown hr {
@@ -400,7 +401,7 @@
 
 #preview.text-markdown code, #preview.text-markdown tt {
 	margin: 0 2px;
-	padding: 5px 5px;
+	padding: 2px 4px;
 	white-space: nowrap;
 	background-color: #f3f4f4;
 	border-radius: 3px;
